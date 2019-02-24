@@ -91,6 +91,15 @@
     
     <url>
     
+      <loc>/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
@@ -102,15 +111,6 @@
     
       <loc>/publication_types/2/</loc>
       <lastmod>2015-09-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
