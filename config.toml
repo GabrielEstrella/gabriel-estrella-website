@@ -2,4 +2,4 @@ theme = "hugo-academic"
 baseURL = "/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
